@@ -1,4 +1,4 @@
 package FinalExamPrep1;
 
-public class Test {
+public class test {
 }
